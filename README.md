@@ -1,8 +1,9 @@
-### Hello there!!!
+### Olá!!!
 Seja Bem vindo(a)! Sou estudante de Programação. Atualmente tenho focado em melhorar meus conhecimentos em HTML e CSS.
 
 Fique a vontade para entrar em contato, dividir ideias e trazer sugestões!
 
+### Hello!!!
 Welcome to)! I'm a programming student. Currently I have focused on improving my knowledge in HTML and CSS.
 
 Feel free to get in touch, share ideas and bring suggestions!
